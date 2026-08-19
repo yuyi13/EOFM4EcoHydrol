@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "Please cite the companion preprint when using EOFM4EcoHydrol."
+title: "EOFM4EcoHydrol: Resources for Earth observation foundation models in terrestrial ecohydrology"
+type: dataset
+authors:
+  - family-names: Yu
+    given-names: Yi
+  - family-names: Peng
+    given-names: Jian
+  - family-names: Lin
+    given-names: Yucheng
+  - family-names: Keenan
+    given-names: Trevor F. A.
+  - family-names: Bishop
+    given-names: Thomas F. A.
+repository-code: "https://github.com/yuyi13/EOFM4EcoHydrol"
+url: "https://arxiv.org/abs/2608.15282"
+license: CC-BY-4.0
+keywords:
+  - Earth observation
+  - foundation models
+  - ecohydrology
+  - remote sensing
+  - benchmarks
+preferred-citation:
+  type: article
+  title: "Earth Observation Foundation Models for Terrestrial Ecohydrology: From Representation Learning to Process Inference"
+  authors:
+    - family-names: Yu
+      given-names: Yi
+    - family-names: Peng
+      given-names: Jian
+    - family-names: Lin
+      given-names: Yucheng
+    - family-names: Keenan
+      given-names: Trevor F. A.
+    - family-names: Bishop
+      given-names: Thomas F. A.
+  journal: arXiv
+  year: 2026
+  doi: "10.48550/arXiv.2608.15282"
+  url: "https://arxiv.org/abs/2608.15282"

@@ -1,0 +1,63 @@
+name: Resource suggestion
+description: Suggest a paper, model, dataset, application, benchmark, or correction
+title: "[Resource]: "
+body:
+  - type: dropdown
+    id: resource_type
+    attributes:
+      label: Resource type
+      options:
+        - EOFM model or version
+        - Review or perspective
+        - Ecohydrological application
+        - Dataset or embedding product
+        - Benchmark or evaluation
+        - Metadata or coding correction
+    validations:
+      required: true
+  - type: checkboxes
+    id: research_questions
+    attributes:
+      label: Relevant research questions
+      options:
+        - label: RQ1 · Observation-to-inference framework
+        - label: RQ2 · EOFM landscape
+        - label: RQ3 · Application evidence
+        - label: RQ4 · Benchmarking
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Resource title or name
+    validations:
+      required: true
+  - type: input
+    id: primary_source
+    attributes:
+      label: Primary source
+      description: DOI, arXiv abstract, official proceedings page, provider repository, or documentation
+    validations:
+      required: true
+  - type: input
+    id: access
+    attributes:
+      label: Official code, weights, embedding, or data link
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Ecohydrological relevance and proposed coding
+      description: Include target, observation pathway, evidence tier, reference source, and validation scope where applicable.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Licence, access, version, or uncertainty notes
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Source confirmation
+      options:
+        - label: I linked a primary or official source and did not upload restricted third-party content.
+          required: true

@@ -1,0 +1,15 @@
+citation_key,year,title,theme,primary_source_url
+crow_upscaling_2012,2012,Upscaling sparse ground-based soil moisture observations for the validation of coarse-resolution satellite soil moisture products,Spatial support and validation,https://doi.org/10.1029/2011RG000372
+badgley_canopy_2017,2017,Canopy near-infrared reflectance and terrestrial photosynthesis,Optical constraint on photosynthesis,https://doi.org/10.1126/sciadv.1602244
+zhu_deep_2017,2017,Deep Learning in Remote Sensing: A Comprehensive Review and List of Resources,Data-driven Earth observation,https://doi.org/10.1109/MGRS.2017.2762307
+mohammed_remote_2019,2019,Remote sensing of solar-induced chlorophyll fluorescence in vegetation: 50 years of progress,Fluorescence observation physics,https://doi.org/10.1016/j.rse.2019.04.030
+reichstein_deep_2019,2019,Deep learning and process understanding for data-driven Earth system science,Process understanding and physical consistency,https://doi.org/10.1038/s41586-019-0912-1
+gruber_validation_2020,2020,Validation practices for satellite soil moisture retrievals: What are the errors?,Reference error and scale matching,https://doi.org/10.1016/j.rse.2020.111806
+dorigo_international_2021,2021,The International Soil Moisture Network: serving Earth system science for over a decade,Independent in situ reference networks,https://doi.org/10.5194/hess-25-5749-2021
+guanter_troposif_2021,2021,The TROPOSIF global sun-induced fluorescence dataset from the Sentinel-5P TROPOMI mission,Fluorescence retrieval and support,https://doi.org/10.5194/essd-13-5423-2021
+khan_reviews_2021,2021,Ongoing and emerging opportunities to improve environmental science using observations from the Advanced Baseline Imager on the Geostationary Operational Environmental Satellites,Geostationary temporal support,https://doi.org/10.5194/bg-18-4117-2021
+shen_differentiable_2023,2023,Differentiable modelling to unify machine learning and physical models for geosciences,Hybrid and process-aware modelling,https://doi.org/10.1038/s43017-023-00450-9
+yu_solar_2024,2024,Solar zenith angle-based calibration of Himawari-8 land surface temperature for correcting diurnal retrieval error characteristics,Thermal observation and diurnal retrieval error,https://doi.org/10.1016/j.rse.2024.114176
+xiao_foundation_2025,2025,Foundation Models for Remote Sensing and Earth Observation: A survey,EOFM definition and design landscape,https://doi.org/10.1109/MGRS.2025.3576766
+jiao_remote_2026,2026,Remote sensing ecohydrology,Observation-to-process synthesis,
+zhu_foundations_2026,2026,On the foundations of Earth foundation models,Earth foundation-model capability and evaluation,https://doi.org/10.1038/s43247-025-03127-x
