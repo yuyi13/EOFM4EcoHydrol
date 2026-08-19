@@ -10,7 +10,7 @@ authors:
   - family-names: Lin
     given-names: Yucheng
   - family-names: Keenan
-    given-names: Trevor F. A.
+    given-names: Trevor F.
   - family-names: Bishop
     given-names: Thomas F. A.
 repository-code: "https://github.com/yuyi13/EOFM4EcoHydrol"
@@ -33,7 +33,7 @@ preferred-citation:
     - family-names: Lin
       given-names: Yucheng
     - family-names: Keenan
-      given-names: Trevor F. A.
+      given-names: Trevor F.
     - family-names: Bishop
       given-names: Thomas F. A.
   journal: arXiv

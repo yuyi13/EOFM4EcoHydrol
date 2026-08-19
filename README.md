@@ -70,12 +70,12 @@ Suggestions for papers, EOFMs, datasets, benchmarks, corrections, and access upd
 
 Please cite the preprint when using this synthesis or its curated evidence tables:
 
-> Yu, Y., Peng, J., Lin, Y., Keenan, T. F. A., & Bishop, T. F. A. (2026). *Earth Observation Foundation Models for Terrestrial Ecohydrology: From Representation Learning to Process Inference*. arXiv:2608.15282. https://doi.org/10.48550/arXiv.2608.15282
+> Yu, Y., Peng, J., Lin, Y., Keenan, T. F. and Bishop, T. F. A. (2026). *Earth Observation Foundation Models for Terrestrial Ecohydrology: From Representation Learning to Process Inference*. arXiv:2608.15282. https://doi.org/10.48550/arXiv.2608.15282
 
 ```bibtex
 @misc{yu2026eofm4ecohydrol,
   title         = {Earth Observation Foundation Models for Terrestrial Ecohydrology: From Representation Learning to Process Inference},
-  author        = {Yu, Yi and Peng, Jian and Lin, Yucheng and Keenan, Trevor F. A. and Bishop, Thomas F. A.},
+  author        = {Yu, Yi and Peng, Jian and Lin, Yucheng and Keenan, Trevor F. and Bishop, Thomas F. A.},
   year          = {2026},
   eprint        = {2608.15282},
   archiveprefix = {arXiv},
